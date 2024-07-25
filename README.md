@@ -1,3 +1,4 @@
+# Get dataset from KAGGLE : https://www.kaggle.com/competitions/home-credit-default-risk 
 # Bank-loan-defaulter-prediction
 
 * An important fraction of the population finds it difficult to get their home loans approved due to insufficient or absent credit history. This prevents them to buy their own dream homes and at times even forces them to rely on other sources of money which may be unreliable and have exorbitant interest rates.
