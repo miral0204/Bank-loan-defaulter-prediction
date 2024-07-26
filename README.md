@@ -10,10 +10,10 @@
  1. The most crucial task in this problem statement is to merge and process all the 7 datasets in a way no data is loss, the relationship and relevancy between each column and table is preserved and a SQL like      
     structure is preserved while model training. Another important factor is feature engineering, as we have more than 120 columns with categorical, float and integer data type all providing information about the 
     data
-2. EDA to discover crucial insights on what the data is saying and past cases which tells us a general pattern of people who default their loand or not
-   The data is uncleaned, requires computing outliers and null values which may tip the training of model in the worse direction.  
+2. EDA to discover crucial insights on what the data is saying and past cases which tells us a general pattern of people who default their loan or not
+   The data is uncleaned, requires **computing outliers** and null values which may tip the training of model in the worse direction.  
    Normalization is required to improve model accuracy and prevent overfitting
 3. Class imbalance is a huge issue in this dataset as the loan defaulters are relatively much lesser , this causes an imbalance and the less complex models usually just predict patterns of the majority class (non      defaulters) which is wrong for our problem statement.
-4. Further hyperparameter tuning, gridsearch, bayesian optimization, tweaking more outliers using z-score method etc can be done to improve the model but more epochs and iterations require higher computational power
+4. Further hyperparameter tuning, gridsearch, bayesian optimization, tweaking more outliers using z-score method etc can be done to improve the model.
 
 
